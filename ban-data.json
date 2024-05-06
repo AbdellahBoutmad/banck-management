@@ -1,0 +1,20 @@
+[
+    {
+        "client": "abdellah",
+        "num_compte": 236868226,
+        "rib": "5123686822615",
+        "solde": 199999
+    },
+    {
+        "client": "ahmed",
+        "num_compte": 829354703,
+        "rib": "982935470321",
+        "solde": 2000
+    },
+    {
+        "client": "bihi",
+        "num_compte": 250437710,
+        "rib": "4925043771040",
+        "solde": 2000
+    }
+]
